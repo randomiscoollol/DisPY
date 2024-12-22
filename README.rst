@@ -1,4 +1,7 @@
-discord.py
+
+## THIS PROJECT HAS BEEN CANCELLED
+
+DisPY
 ==========
 
 .. image:: https://discord.com/api/guilds/336642139381301249/embed.png
